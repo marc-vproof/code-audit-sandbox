@@ -1,0 +1,5 @@
+# Sample settings (not used by anything)
+app_name=sandbox
+log_level=info
+max_items=10
+feature_preview=false

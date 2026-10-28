@@ -1,0 +1,5 @@
+Meeting notes - sandbox
+-----------------------
+- Kick-off: agree on the scope of the test repo.
+- Each change goes through a branch and a pull request.
+- Reviewers leave at least one comment per PR.
