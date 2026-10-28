@@ -1,5 +1,6 @@
 TODO
-[ ] Create the sandbox repository
-[ ] Add a few text files
+[x] Create the sandbox repository
+[x] Add a few text files
 [ ] Open pull requests with small updates
 [ ] Connect the repository to the code audit
+[ ] Ask a second person to push a change
