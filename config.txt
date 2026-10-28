@@ -1,5 +1,6 @@
 # Sample settings (not used by anything)
 app_name=sandbox
-log_level=info
-max_items=10
+log_level=debug
+max_items=25
 feature_preview=false
+retry_count=3
